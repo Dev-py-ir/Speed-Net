@@ -21,5 +21,3 @@ view net speed tray in windows (taskbar)
 pip install psutil pystray pillow
 
 
-###  ارتباط
-@ِdevpy.ir / dev-py.ir / @art_yasina
